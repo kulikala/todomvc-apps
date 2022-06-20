@@ -1,0 +1,10 @@
+version: "0.2"
+ignorePaths:
+  - .git
+  - dist
+  - cspell.config.yaml
+words:
+  - composables
+  - todoapp
+  - todomvc
+  - todos
